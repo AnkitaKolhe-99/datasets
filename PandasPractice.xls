@@ -1,0 +1,121 @@
+Order_ID,Customer_ID,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Order_Date,Status,Discount_Percent,Payment_Method
+ORD0001,C002,Myra Desai,Headphones,Accessories,South,2,2114,2026-01-24,Returned,10,UPI
+ORD0002,C006,Diya Shah,Monitor,Electronics,Central,2,16279,01/05/2026,Returned,10,Credit Card
+ORD0003,C038,Mohammad Ali,Headphones,Accessories,North,7,4760,25 Feb 2026,Shipped,5,Credit Card
+ORD0004,C049,,Office Chair,Furniture,West,1,6019,3/4/2026,Returned,5,UPI
+ORD0005,C035,Tara Pillai,Mouse,Accessories,Central,4,480,6/10/2026,Returned,0,UPI
+ORD0006,C043,Kabir Rao,Monitor,Electronics,North,five,12741,2026-02-28,Cancelled,5,Cash
+ORD0007,C011,Amaira Gill,Office Chair,Furniture,East,3,7932,2026-06-23,Returned,20,Credit Card
+ORD0008,C047,Parth Saxena,Monitor,Electronics,West,2,15573,09/06/2026,Shipped,0,Credit Card
+ORD0009,C052,Kabir Rao,Office Chair,Furniture,North,,8886,5/7/2026,Pending,20,Cash
+ORD0010,C057,Aanya Roy,Webcam,Electronics,South,2,3969,6/8/2026,Returned,10,Net Banking
+ORD0011,C024,Aanya Roy,Monitor,Electronics,West,2,16348,2026-01-03,Pending,20,Credit Card
+ORD0012,C039,Prisha Sen,Mouse,Accessories,Central,4,"12,500",5/15/2026,Returned,0,UPI
+ORD0013,C049,Parth Saxena,Headphones,Accessories,East,7,3825,4 Mar 2026,Pending,10,UPI
+ORD0014,C033,Rudra Chawla,Keyboard,Accessories,East,5,1335,,Pending,5,Credit Card
+ORD0015,C050,Parth Saxena,USB Hub,Accessories,East,1,1826,2026-01-16,Shipped,5,Credit Card
+ORD0016,C016,Anaya Patel,Printer,Electronics,West,1,8403,27/01/2026,Pending,20,Cash
+ORD0017,C011,Ishita Ghosh,Headphones,Accessories,Central,5,4773,14/02/2026,Shipped,10,Debit Card
+ORD0018,C058,Mohammad Ali,USB Hub,Accessories,South,4,unknown,1/8/2026,Delivered,15,Net Banking
+ORD0019,C038,Krish Reddy,Monitor,Electronics,North,1,9163,2026-01-08,Shipped,0,Net Banking
+ORD0020,C018,Navya Bansal,Webcam,Electronics,South,2,6217,24 May 2026,Pending,10,
+ORD0021,C007,Atharv Kulkarni,Mouse,Accessories,East,6,841,14 Apr 2026,Delivered,20,UPI
+ORD0022,C026,Anaya Patel,Office Chair,Furniture,South,7,6290,7 Feb 2026,Pending,10,Credit Card
+ORD0023,C030,Ira Sethi,Monitor,Electronics,West,7,9235,not a date,Delivered,20,Net Banking
+ORD0024,C006,Aarav Mehta,Monitor,Electronics,West,2,14658,16 Feb 2026,Delivered,0,Cash
+ORD0025,C025,Aarav Mehta,Headphones,Accessories,West,7,4415,10 Apr 2026,Pending,0,Debit Card
+ORD0026,C004,Pari Malhotra,Printer,Electronics,North,6,15883,2026-03-24,Delivered,15,Cash
+ORD0027,C059,Rohan Dutta,USB Hub,Accessories,,2,716,2026-02-03,Returned,0,Credit Card
+ORD0028,C008,Aanya Roy,Printer,Electronics,Central,2,16485,2026-05-02,Cancelled,20,Net Banking
+ORD0029,C034,Om Prakash,Office Chair,Furniture,East,3,7846,2026-02-31,Pending,20,Debit Card
+ORD0030,C021,Tara Pillai,Mouse,Accessories,Central,1,869,2026-01-19,Returned,0,Net Banking
+ORD0031,C009,Rudra Chawla,Office Chair,Furniture,East,1,8502,10 Feb 2026,Returned,20,Debit Card
+ORD0032,C052,Pihu Saxena,USB Hub,Accessories,Central,1,1967,2026-06-10,,5,UPI
+ORD0033,C048,Vivaan Joshi,USB Hub,Accessories,East,2,1157,2/20/2026,Pending,20,Debit Card
+ORD0034,C032,Rohan Dutta,Headphones,Accessories,North,7,1408,4/21/2026,Delivered,0,Debit Card
+ORD0035,C041,Arjun Nair,Headphones,Accessories,West,2,4236,18 Jun 2026,Returned,0,UPI
+ORD0036,C057,Ishaan Gupta,Keyboard,Accessories,East,-2,1047,19/05/2026,Cancelled,0,UPI
+ORD0037,C024,Saanvi Bose,Laptop,Electronics,South,3,51883,1/22/2026,Returned,10,Net Banking
+ORD0038,C060,Kiara Iyer,Monitor,Electronics,South,7,10662,14/01/2026,Shipped,10,Credit Card
+ORD0039,C011,Ira Sethi,Mouse,Accessories,West,4,439,8 Feb 2026,Shipped,5,Credit Card
+ORD0040,C002,Krish Reddy,Monitor,Electronics,East,4,0,1/28/2026,Shipped,20,Net Banking
+ORD0041,C044,Aanya Roy,USB Hub,Accessories,North,3,656,2/9/2026,Delivered,0,Net Banking
+ORD0042,C023,Prisha Sen,Office Chair,Furniture,North,4,12879,13/05/2026,Shipped,0,Cash
+ORD0043,C034,Aarav Mehta,USB Hub,Accessories,South,6,,2026-04-12,Shipped,15,Debit Card
+ORD0044,C047,Myra Desai,Headphones,Accessories,West,5,2466,4/11/2026,Returned,0,Credit Card
+ORD0045,C043,Vihaan Paul,Desk,Furniture, west ,6,18257,5/20/2026,Cancelled,15,UPI
+ORD0046,C019,Saanvi Bose,Monitor,Electronics,Central,4,17502,21 Mar 2026,Cancelled,10,Credit Card
+ORD0047,C031,Rohan Dutta,Keyboard,Accessories,East,6,1247,6/17/2026,Delivered,0,Debit Card
+ORD0048,C052,Krish Reddy,Monitor,Electronics,North,2,8400,2026-04-08,Cancelled,10,Net Banking
+ORD0049,C046,Atharv Kulkarni,Desk,Furniture,South,4,12547,2026-06-05,Delivered,10,Credit Card
+ORD0050,C052,Aditi Verma,USB Hub,Accessories,NORTH ,4,702,8 Jan 2026,Pending,10,Net Banking
+ORD0051,C039,,Office Chair,Furniture,Central,7,11751,27 Jun 2026,Returned,10,Credit Card
+ORD0052,C029,Neil Fernandes,Headphones,Accessories,East,7,2212,25 May 2026,Pending,5,Cash
+ORD0053,C046,Ishaan Gupta,Headphones,Accessories,East,2,2312,2026-05-11,Pending,0,Credit Card
+ORD0054,C045,Sai Menon,Keyboard,Accessories,North,6,1776,4/14/2026,Returned,10,Cash
+ORD0055,C014,Anaya Patel,Desk,Furniture,Central,4,18612,23 Jan 2026,delivered,0,Debit Card
+ORD0056,C049,Saanvi Bose,Desk,Furniture,West,7,19692,18/06/2026,Cancelled,0,Debit Card
+ORD0057,C032,Prisha Sen,Laptop,Electronics,West,4,56014,24 Feb 2026,Pending,15,Net Banking
+ORD0058,C059,Diya Shah,Desk,Furniture,North,5,15246,3 Jun 2026,Pending,10,Credit Card
+ORD0059,C017,Anaya Patel,Desk,Furniture,West,3,9467,11 Mar 2026,Shipped,,Debit Card
+ORD0060,C031,Sara Khan,Laptop,Electronics,North,6,62675,2026-02-12,Delivered,0,Credit Card
+ORD0061,C054,Atharv Kulkarni,Laptop,Electronics,South,5,49993,2026-04-05,Returned,0,Cash
+ORD0062,C050,Rudra Chawla,Office Chair,Furniture,South,2,6376,2026-01-10,DELIVERED ,15,Cash
+ORD0063,C046,Aanya Roy,Monitor,Electronics,South,1,17700,6/4/2026,Returned,0,Net Banking
+ORD0064,C023,Kabir Rao,USB Hub,Accessories,East,4,1954,5/3/2026,Delivered,10,Cash
+ORD0065,C028,Vivaan Joshi,Office Chair,,South,6,12032,2/14/2026,Returned,15,Cash
+ORD0066,C028,Tara Pillai,Printer,Electronics,South,3,12280,1/27/2026,Cancelled,0,Cash
+ORD0067,C040,Om Prakash,Desk,Furniture,West,3,6470,28/03/2026,Cancelled,0,Debit Card
+ORD0068,C022,Rudra Chawla,Headphones,Accessories,East,5,4072,18/01/2026,Deliverd,0,Cash
+ORD0069,C036,Zoya Mirza,Monitor,Electronics,West,6,15800,2026-01-15,Shipped,0,Cash
+ORD0070,C020,Navya Bansal,Printer,Electronics,Central,3,14753,17 Mar 2026,Returned,5,Debit Card
+ORD0071,C018,Tara Pillai,Headphones,Accessories,North,3,2144,2/24/2026,Delivered,20,Net Banking
+ORD0072,C013,Aditi Verma,Monitor,Electronics,East,6,15933,5/24/2026,Delivered,0,Debit Card
+ORD0073,C024,Krish Reddy,Keyboard,Accessories,Central,3,957,2026-03-05,Delivered,110,Debit Card
+ORD0074,C041,Arjun Nair,Webcam,Electronics,Central,,1900,10 Apr 2026,Cancelled,5,Credit Card
+ORD0075,C017,Anaya Patel,Webcam,Electronics,West,1,2335,2026-01-16,Pending,0,Net Banking
+ORD0076,C006,Saanvi Bose,Monitor,Electronics,West,1,17143,20/05/2026,Returned,10,Cash
+ORD0077,C020,Mohammad Ali,Printer,Electronics,Central,4,12003,2026-01-20,Pending,20,Credit Card
+ORD0078,C043,Rudra Chawla,Mouse,Accessories,South,2,645,18/01/2026,Delivered,10,Cash
+ORD0079,C031,Dev Arora,Headphones,Accessories,East,1,2148,23 Mar 2026,Delivered,20,Credit Card
+ORD0080,C051,Rudra Chawla,Printer,Electronics,South,6,20171,14/01/2026,Pending,-5,Credit Card
+ORD0081,C004,Ishaan Gupta,Keyboard,Accessories,Central,7,2159,5/24/2026,Cancelled,0,Cash
+ORD0082,C045,Saanvi Bose,Desk,Furniture,Central,3,14199,2026-04-16,Returned,0,Cash
+ORD0083,C039,Dhruv Kapoor,Headphones,Accessories,South,1,1574,2026-05-22,Shipped,15,UPI
+ORD0084,C031,Aditi Verma,USB Hub,Accessories,East,6,1505,6 May 2026,Cancelled,0,Cash
+ORD0085,C027,Yuvaan Das,Office Chair,Furniture,South,3,6213,11 Apr 2026,Shipped,20,upi
+ORD0086,C003,Ishita Ghosh,Webcam,Electronics,East,1,4376,11 Jan 2026,Returned,0,Net Banking
+ORD0087,C027,Tara Pillai,Laptop,Electronics,East,2,61988,20 Apr 2026,Delivered,0,Debit Card
+ORD0088,C009,Ishita Ghosh,Headphones,Accessories,West,4,4807,04/01/2026,Pending,5,Net Banking
+ORD0089,C036,Aarav Mehta,Desk,Furniture,North,1,9681,15/01/2026,Cancelled,20,
+ORD0090,C046,Rohan Dutta,Headphones,Accessories,West,4,4619,16 Feb 2026,Returned,0,Cash
+ORD0091,C059,Atharv Kulkarni,Printer,Electronics,South,5,19227,1/28/2026,Cancelled,5,Net Banking
+ORD0092,C053,Ira Sethi,Laptop,Electronics,East,3,68791,27 May 2026,Pending,10,Credit card 
+ORD0093,C023,Neil Fernandes,Office Chair,Furniture,West,5,13403,15/03/2026,Pending,15,Cash
+ORD0094,C055,Krish Reddy,Desk,Furniture,West,1,11213,23 Apr 2026,Pending,10,UPI
+ORD0095,C033,Arjun Nair,Printer,Electronics,North,3,21249,2026-04-28,Returned,10,UPI
+ORD0096,C027,Kiara Iyer,Keyboard,Accessories,East,1,2823,,Delivered,5,Net Banking
+ORD0097,C021,Sai Menon,Webcam,Electronics,North,7,6232,20/01/2026,Shipped,0,UPI
+ORD0098,C007,Prisha Sen,Mouse,Accessories,East,4,570,1/1/2026,Delivered,5,Debit Card
+ORD0099,C028,Amaira Gill,Keyboard,Accessories,Central,2,2587,22/02/2026,Pending,0,Net Banking
+ORD0100,C040,Sai Menon,Monitor,Electronics,South,4,17554,4/8/2026,Cancelled,5,UPI
+ORD0101,C058,Tara Pillai,Headphones,Accessories,South,6,3438,4/3/2026,Returned,5,Cash
+ORD0102,C030,Rudra Chawla,Headphones,Accessories,West,2,2775,4 Feb 2026,Returned,5,Net Banking
+ORD0103,,Advik Jain,Headphones,Accessories,West,1,4599,2026-01-09,Returned,20,Cash
+ORD0104,C050,Advik Jain,Monitor,Electronics,South,5,13772,2/21/2026,Pending,20,UPI
+ORD0105,C020,Kabir Rao,Webcam,Electronics,South,1,4788,3/3/2026,Cancelled,0,Credit Card
+ORD0106,C051,Arjun Nair,USB Hub,Accessories,Central,3,1687,2/9/2026,Cancelled,5,Debit Card
+ORD0107,C030,Myra Desai,Mouse,Accessories,South,2,1172,28 Jun 2026,Returned,5,UPI
+ORD0108,C001,Aanya Roy,Headphones,Accessories,West,5,1706,6/12/2026,Returned,10,Debit Card
+ORD0109,C044,Vivaan Joshi,Monitor,Electronics,Central,4,8410,18/03/2026,Delivered,20,Cash
+ORD0110,C042,Saanvi Bose,Desk,Furniture,,1,8290,2 Mar 2026,Delivered,0,Credit Card
+ORD0111,C009,Parth Saxena,Desk,Furniture,Central,4,12078,14/05/2026,Cancelled,20,UPI
+ORD0112,C040,Zoya Mirza,Desk,Furniture,East,3,6536,7 Apr 2026,Pending,5,UPI
+ORD0113,C035,Amaira Gill,Office Chair,Furniture,East,1,11023,7 Jan 2026,Delivered,20,Credit Card
+ORD0114,C002,Dev Arora,Laptop,Electronics,South,7,55928,05/05/2026,Delivered,15,Credit Card
+ORD0115,C014,Riya Anand,Monitor,Electronics,Central,3,10417,01/03/2026,Pending,15,Debit Card
+ORD0116,C008,   ,Laptop,Electronics,East,2,45486,2/26/2026,Delivered,0,Debit Card
+ORD0016,C016,Different Customer Name,Printer,Electronics,West,3,8403,27/01/2026,Pending,20,Cash
+ORD0118,C033,Mohammad Ali,Monitor,Electronics,Central,5,8710,2026-04-10,Delivered,10,Cash
+ORD0005,C035,Tara Pillai,Mouse,Accessories,Central,4,480,6/10/2026,Returned,0,UPI
+ORD0028,C008,Aanya Roy,Printer,Electronics,Central,2,16485,2026-05-02,Cancelled,20,Net Banking
